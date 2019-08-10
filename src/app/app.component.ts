@@ -1,5 +1,4 @@
 import { Component } from "@angular/core";
-import { Test1 } from "./test";
 
 @Component({
   selector: "app-root",
@@ -8,6 +7,4 @@ import { Test1 } from "./test";
 })
 export class AppComponent {
   title = "Sri Ram Ede";
-  name = "King";
-  dataobj = new Test1();
 }
